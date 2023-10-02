@@ -14,8 +14,6 @@ Demo
 
 https://github.com/albertgs09/Games/assets/65637580/24d1d33d-bfc6-44dd-81ac-f350fad77449
 
-
-
 <h1>
   Screenshots
 </h1>
@@ -27,8 +25,6 @@ https://github.com/albertgs09/Games/assets/65637580/24d1d33d-bfc6-44dd-81ac-f350
 ![Screenshot (227)](https://github.com/albertoalvaradojr/Liontree_SF_Collimation-Unity/assets/65637580/55fd2815-9566-4b7b-822b-ec512ecc0df5)
 ![Screenshot (226)](https://github.com/albertoalvaradojr/Liontree_SF_Collimation-Unity/assets/65637580/dc85cd19-7a1e-4d3a-8591-1c04be26fb19)
 ![Screenshot (223)](https://github.com/albertoalvaradojr/Liontree_SF_Collimation-Unity/assets/65637580/6ab66e56-5e0c-400e-8d18-8736bc42c414)
-
-
 
 <br>
 <br>

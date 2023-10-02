@@ -10,6 +10,7 @@ This project was created for an internship with Collimation. I was tasked to opt
 <br>
 <br>
 <br>
+https://github.com/albertgs09/Games/assets/65637580/24d1d33d-bfc6-44dd-81ac-f350fad77449
 
 
 
@@ -24,4 +25,3 @@ This project was created for an internship with Collimation. I was tasked to opt
 <br>
 <br>
 
-https://github.com/albertgs09/Games/assets/65637580/24d1d33d-bfc6-44dd-81ac-f350fad77449

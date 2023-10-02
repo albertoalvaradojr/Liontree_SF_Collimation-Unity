@@ -5,8 +5,6 @@
 <br>
 This project was created for an internship with Collimation. I was tasked to optimize maps for WebGL, mobile, and VR platforms. Also, I created mechanics, UI features, and interactive objects using Unity’s Visual Scripting, so players can collect, interact, and play with them. The project used the Spatial plugin and was uploaded to the Spatial platform.
 <br>
-<br>
-<br>
 
 <h1>
 Demo

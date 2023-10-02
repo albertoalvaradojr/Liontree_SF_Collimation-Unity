@@ -18,7 +18,9 @@ https://github.com/albertgs09/Games/assets/65637580/24d1d33d-bfc6-44dd-81ac-f350
 
 
 
-
+<h1>
+  Screenshots
+</h1>
 
 ![Screenshot (226)](https://github.com/albertgs09/Games/assets/65637580/3eeaf38e-aff9-46ee-b14b-8827ccac3375)
 ![Screenshot (223)](https://github.com/albertgs09/Games/assets/65637580/1b49c8a7-3c9e-4b80-bd6e-f4e65b61e2df)

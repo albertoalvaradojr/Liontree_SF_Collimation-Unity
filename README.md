@@ -7,9 +7,7 @@ This project was created for an internship with Collimation. I was tasked to opt
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <h1>
 Demo
 </h1>

@@ -10,9 +10,10 @@ This project was created for an internship with Collimation. I was tasked to opt
 <br>
 <br>
 <br>
-<h2>
-  Demo
-</h2>
+<h1>
+Demo
+</h1>
+
 https://github.com/albertgs09/Games/assets/65637580/24d1d33d-bfc6-44dd-81ac-f350fad77449
 
 
